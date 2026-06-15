@@ -118,5 +118,5 @@ Based on feature importance scores:
 
 ## Author
 
-**Alex Rahbarimanesh** — Data Scientist & AI Engineer  
+**Ali Rahbarimanesh** — Data Scientist & AI Engineer  
 [LinkedIn](https://linkedin.com/in/armanesh) · [GitHub](https://github.com/armanesh)
